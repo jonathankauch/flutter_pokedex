@@ -1,6 +1,9 @@
 # flutter_pokedex
 
-A new Flutter project.
+Starting to learn `Flutter` and `Dart` at the same time by creating a `Pokedex`.
+
+# Screenshot
+![image](https://user-images.githubusercontent.com/7169939/118493681-a7af0100-b721-11eb-8b5a-2eda524a2045.png)
 
 ## Getting Started
 
@@ -14,3 +17,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
